@@ -1,7 +1,7 @@
 # Countdown_RPS
 I made a program that recreates the childhood game of rock paper scissors in the form of a command-line game. In this game, the player is competing against their "friend" over who gets to fly a space ship that they have just stumbled upon. Once one of them wins (best 2 out of 3), a countdown sequence is initiated and either the player flys away, or the friend does. 
 
-## What I learned 
+## Takeaways
 In making this project I learned how to utilize 'strcmp()', a string comparison function, to validate the user's input. The countdown sequence utilizes a recursive function that starts from 10, subtracts 1 and repeats these steps until it reaches 0. Various 'sleep()' functions are sprinkled throughout the program for a cohesive flow, namely for the countdown sequence.
 
 ## Features
